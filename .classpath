@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/neha_sangwai/Desktop/Use_case_2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neha_sangwai/eclipse-workspace/use_case_2.1.0/jars/Use_case_2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
